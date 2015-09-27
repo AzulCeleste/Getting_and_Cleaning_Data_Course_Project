@@ -3,7 +3,7 @@ Getting and Cleaning Data Course Project
 
 ## Files
 
-The code takes for granted that you have already downloaded and unzipped the original data and all the data is present in the same folder without any previous processing of the data.
+The code takes for granted that you have already downloaded and unzipped the original data and all the data is present in the same folder (called 'Dataset') without any previous processing of the data.
 
 `CodeBook.md` describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
