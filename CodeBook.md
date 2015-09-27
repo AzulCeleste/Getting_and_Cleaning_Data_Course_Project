@@ -2,8 +2,8 @@
 
 ## Variables
 
-*subject - The participant ID. Its range is from 1 to 30. 
-*activity - The label of the activity performed by the subject when the measurements were taken.
+* subject - The participant ID. Its range is from 1 to 30. 
+* activity - The label of the activity performed by the subject when the measurements were taken.
 
 
 ### Activity
