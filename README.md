@@ -11,7 +11,7 @@ The code takes for granted that you have already downloaded and unzipped the ori
 
 The output of the script is called `final_tidy_data.txt`, and it's available in the repo.
 
-# run_analysis.R
+## Run the analysis
 
 This R script performs the following steps, as per the project assignment instructions:
 
@@ -20,8 +20,6 @@ This R script performs the following steps, as per the project assignment instru
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive activity names. 
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
-
-## Run the analysis
 
 In your R enviroment (in the same folder where the data files are), load the script:
 
